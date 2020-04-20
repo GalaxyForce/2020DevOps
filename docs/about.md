@@ -6,13 +6,13 @@
 $ whoami
 galaxyforce
 $
-$ #Position
+$ # Position
 sre
 $ 
-$ Career
+$ # Career
 4 years
 $
-$ #location
+$ # location
 shanghai
 $
 $
