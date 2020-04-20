@@ -1,0 +1,88 @@
+site_name: GalaxyForce 
+site_author: 'GalaxyForce'
+site_url: 'https://GalaxyForce.github.io'
+theme: 
+  name: readthedocs
+  language: zh
+
+# Repository
+repo_name: 'GalaxyForce/GalaxyForce.github.io'
+repo_url: 'https://github.com/GalaxyForce/GalaxyForce.github.io'
+
+nav:
+- Home: index.md
+- Algorithm and Data Structure:
+  - Intro: Algorithm_And_Data_Structure/README.md
+- Architect: 
+  - Intro: Architecture/README.md
+- Cache: 
+  - Redis Intro: Cache/Redis/README.md
+- Container:
+  - Intro: Containers/README.md
+  - Docker: Containers/Docker/README.md
+- Database:
+  - MySQL Intro: Database/MySQL/README.md
+- Lessons:
+  - Intro: Lessons/Career.md
+- Network:
+  - Intro: Network/README.md
+  - Tunnel: Network/Tunnel.md
+  - TCP: Network/tcp.md
+  - Router: Network/router.md
+  - DNS Intor: Network/DNS/README.md
+  - Squid Intro: Network/Squid.md
+- Performance:
+  - Dynamic Tracing: Performance/Dynamic_Tracing.md
+  - Linux Performance: Performance/Linux_Performance.md
+  - Systems Performance: Performance/SystemsPerformance.md
+  - Web Performance: Performance/web_performance.md
+  - CDN Intro: Performance/CDN/README.md
+- Programming:
+  - Code Review: Programming/Code_Review.md
+  - Go Style: Programming/Go_Style.md
+- SICP:
+  - Intro: SICP/README.md
+- SRE:
+  - SRE Intro: SRE/README.md
+- Security:
+  - How to Be a Hacker: Security/How_To_Be_a_Hacker.md
+  - SSL: Security/SSL.md
+- Sysadmin:
+  - Intro: Sysadmin/Linux/README.md
+  - Backup System: Sysadmin/Linux/BackupSystem.md
+  - Linux Kernel: Sysadmin/Linux/Linux_Kernel.md
+  - Bash Completion: Sysadmin/Linux/bash_completion.md
+  - Crontab: Sysadmin/Linux/crontab.md
+  - Curl: Sysadmin/Linux/curl.md
+  - htop: Sysadmin/Linux/htop.md
+  - Linux: Sysadmin/Linux/linux.md
+  - Namespace: Sysadmin/Linux/namespace.md
+  - Linux Network: Sysadmin/Linux/network.md
+  - rsync: Sysadmin/Linux/rsync.md
+  - ssh: Sysadmin/Linux/ssh.md
+  - wget: Sysadmin/Linux/wget.md
+- System Design:
+  - Intro: SystemDesign/README.md
+- Tech:
+  - Seo: Tech/Seo.md
+  - qrcode: Tech/qr-code.md
+- Tools:
+  - Tools Intro: Tools/README.md
+  - tmux: Tools/tmux.md
+- Web Server:
+  - Nginx Intro: WebServer/Nginx/README.md
+  - Nginx Tricks: WebServer/Nginx/Tricks.md
+- Cloud Platform:
+  - Aliyun Intro: Cloud/Aliyun/README.md
+  - Tencent Intro: Cloud/TencentCloud/README.md
+- Virtualization:
+  - PVE Intro: Virtualization/PVE/README.md
+- Work Conclusion:
+  - Work Intro: Workstation/README.md
+- Soft Skills:
+  - Soft Skills Intro: SoftSkills/README.md
+  - Style: SoftSkills/Style.md
+- About: about.md      
+
+copyright: Copyright &copy; 2019-2020 Galaxy Force - CC-BY-SA v4.0.
+
