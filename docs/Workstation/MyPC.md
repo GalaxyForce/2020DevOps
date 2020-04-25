@@ -1,0 +1,104 @@
+## My PC Software
+
+---
+
+Platform: Linux
+
+
+---
+
+- 云资源编排:
+    - Terraform
+- 配置管理
+    - ansible
+- 云平台
+    - 阿里云
+	- aliyun
+	- ossbrowser, ossutil
+    - 腾讯云
+	- tccli
+	- cosbrowser, coscmd
+    - Azure
+        - StorageExplorer
+- Tools
+    - acme.sh
+- 数据库及缓存管理工具
+    - mycli
+    - pgcli
+    - dbeaver
+    - falcon-sql-client
+    - redis-cli
+- Programming Related
+    - Pycharm
+    - Goland
+    - Postman, Postwoman
+    - Drawio
+- Programming Env
+    - Python3,pip3
+    - Go
+    - Rust
+    - Node
+- Browser
+    - firefox
+    - vivaldi
+    - chrome
+    - brave
+    - tor
+- Documents and Text
+    - Typora
+    - Joplin
+    - VScodium
+    - libreoffice
+    - wps
+    - calibre
+    - mkdocs
+    - gitbook
+- Multimedia
+    - openshot
+    - flameshot
+    - asciinema
+- Virtualization and Container
+    - Virtualbox
+    - KVM
+    - Docker
+        - quay.io/wekan/wekan                                 latest             
+        - wiznote/wizserver                                   latest             
+        - mongo                                               latest             
+        - openzipkin/zipkin                                   latest             
+        - bitwardenrs/server                                  latest             
+        - alpine                                              latest             
+        - mariadb                                             latest             
+        - golang                                              latest             
+        - portainer/portainer                                 latest             
+        - machines/filestash                                  latest             
+        - onlyoffice/documentserver                           latest             
+        - buildpack-deps                                      buster-curl        
+        - rclone/rclone                                       latest             
+        - rancher/rancher                                     latest             
+        - neilpang/acme.sh                                    latest             
+        - nginx                                               alpine             
+        - sonarqube                                           latest             
+        - n8nio/n8n                                           latest             
+        - busybox                                             latest             
+        - ranger/ranger                                       latest             
+        - gogs/gogs                                           latest             
+        - postgres                                            10                 
+        - redislabs/redisinsight                              latest             
+        - redis                                               4                  
+        - mysql                                               5.7                
+        - debian                                              latest             
+        - redis                                               5.0-alpine         
+        - python                                              3.7                
+        - centos                                              7                  
+- Funny
+    - wtf
+    - neofetch
+- Network
+    - httpie
+- Encryption
+    - veracrypt
+    - truecrypt
+    - keepassxc
+- Download and Upload
+    - filezilla
+    - ipfs

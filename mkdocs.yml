@@ -79,9 +79,13 @@ nav:
   - PVE Intro: Virtualization/PVE/README.md
 - Work Conclusion:
   - Work Intro: Workstation/README.md
+  - My PC: Workstation/MyPC.md
 - Soft Skills:
   - Soft Skills Intro: SoftSkills/README.md
   - Style: SoftSkills/Style.md
+- Daily:
+  - Enjoy it: Funny/README.md
+  - 202004: Funny/202004.md
 - About: about.md      
 
 copyright: Copyright &copy; 2019-2020 Galaxy Force - CC-BY-SA v4.0.
