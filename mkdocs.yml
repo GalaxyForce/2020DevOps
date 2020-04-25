@@ -61,6 +61,12 @@ nav:
   - rsync: Sysadmin/Linux/rsync.md
   - ssh: Sysadmin/Linux/ssh.md
   - wget: Sysadmin/Linux/wget.md
+  - Monitor Intro: Sysadmin/Monitor/README.md
+  - Prometheus: Sysadmin/Monitor/Prometheus.md
+  - Openfalcon: Sysadmin/Monitor/Openfalcon.md
+  - Zabbix: Sysadmin/Monitor/Zabbix.md
+  - ELK: Sysadmin/Monitor/ELK.md
+  - Sentry: Sysadmin/Monitor/Sentry.md
 - System Design:
   - Intro: SystemDesign/README.md
 - Tech:
