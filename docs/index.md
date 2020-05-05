@@ -38,3 +38,14 @@
 
 * WebServer	Web 服务器
 
+* Cloud Platform 云平台
+
+* Virtualiztion 虚拟化
+
+* Workstation 定制化
+
+* Soft SKills 软技能
+
+* Daily 日常
+
+* About 关于
